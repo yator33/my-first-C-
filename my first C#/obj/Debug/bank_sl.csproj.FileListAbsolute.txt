@@ -1,0 +1,10 @@
+C:\Users\Felix\source\repos\bank_sl\bank_sl\bin\Debug\bank_sl.exe.config
+C:\Users\Felix\source\repos\bank_sl\bank_sl\bin\Debug\bank_sl.exe
+C:\Users\Felix\source\repos\bank_sl\bank_sl\bin\Debug\bank_sl.pdb
+C:\Users\Felix\source\repos\bank_sl\bank_sl\obj\Debug\bank_sl.csproj.AssemblyReference.cache
+C:\Users\Felix\source\repos\bank_sl\bank_sl\obj\Debug\bank_sl.Form1.resources
+C:\Users\Felix\source\repos\bank_sl\bank_sl\obj\Debug\bank_sl.Properties.Resources.resources
+C:\Users\Felix\source\repos\bank_sl\bank_sl\obj\Debug\bank_sl.csproj.GenerateResource.cache
+C:\Users\Felix\source\repos\bank_sl\bank_sl\obj\Debug\bank_sl.csproj.CoreCompileInputs.cache
+C:\Users\Felix\source\repos\bank_sl\bank_sl\obj\Debug\bank_sl.exe
+C:\Users\Felix\source\repos\bank_sl\bank_sl\obj\Debug\bank_sl.pdb
